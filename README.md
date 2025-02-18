@@ -4,27 +4,27 @@ Added the active azure connection details in appsettings.json, which will be rem
 
 # Configuration
 .NET 8,
-EFCore 9
-Azure Sqldb
-Azure Blob
-NUnit
-Serilog
-API
+EFCore 9,
+Azure Sqldb,
+Azure Blob,
+NUnit,
+Serilog,
+API.
 
 # Design Pattern
 UOW,
-Respository
-Iterator
+Respository,
+Iterator.
 
 # Controllers
-TaskController used for all Task related CRUD operations
+TaskController used for all Task related CRUD operations.
 AuthenticationController used for creating and validating user.
 
 # Service
 For connecting Blob
 
 # EFCore
-Used code first approach
+Used code first approach.
 Add-Migration InitialCreate
 Update-Database
 
