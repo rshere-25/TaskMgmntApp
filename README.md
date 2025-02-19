@@ -2,6 +2,9 @@
 Backend logic(server) of TaskManagementApp, exposed crucial apis to serve for TaskMgmntFrontEnd.
 Added the active azure connection details in appsettings.json, which will be removed after a week.
 
+![image](https://github.com/user-attachments/assets/2e8004dd-2329-4e1c-afc3-03331217de03)
+
+
 # Configuration
 .NET 8,
 EFCore 9,
